@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "cibc-o-365-cibc-today-personal-greeting",
+    "libraryId": "a7626a92-4417-467e-9e95-93ca8126a0b5",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "CIBC-O365-CIBCToday-PersonalGreeting",
+    "solutionShortDescription": "CIBC-O365-CIBCToday-PersonalGreeting description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

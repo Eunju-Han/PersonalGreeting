@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "CIBCToday-O365-PersonalGreeting-Solution",
+    "id": "a7626a92-4417-467e-9e95-93ca8126a0b5",
+    "version": "1.1.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "CIBCToday-O365-PersonalGreeting"
+      },
+      "longDescription": {
+        "default": "CIBCToday-O365-PersonalGreeting displays the current user's name and today's date"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "cibctoday-o365-personal-greeting Feature",
+        "description": "The feature that activates elements of the cibc-o-365-cibc-today-personal-greeting solution.",
+        "id": "3aadec06-9b49-44d3-9acc-3c898a5bdc09",
+        "version": "1.1.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/cibctoday-o365-personal-greeting.sppkg"
+  }
+}

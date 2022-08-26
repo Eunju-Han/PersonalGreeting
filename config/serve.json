@@ -1,0 +1,6 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "initialPage": "https://cibcdev.sharepoint.com/sites/dev8-cibctoday-home/_layouts/workbench.aspx"
+}
